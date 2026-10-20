@@ -1,0 +1,10 @@
+Capture your own screenshots after running the project:
+1. Application home page in browser
+2. Add task and mark complete
+3. pytest -v output
+4. GitHub repository page
+5. GitHub Actions successful run
+6. docker build output
+7. docker ps showing running container
+8. Application opened at http://localhost:5000 through Docker
+Do not submit placeholders as proof of successful execution.
